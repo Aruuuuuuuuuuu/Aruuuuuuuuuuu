@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aruzhan</h1>
-<h3 align="center">Data Analyst aspiring to become a data analytics professional. My projects and research reflect my passion for data science and machine learning. I am looking for opportunities to improve my skills and collaborate on interesting projects.</h3>
+<h3 align="center">I am a data analyst who aspires to become a data analytics professional. My projects and research reflect my passion for data science and machine learning. I am looking for opportunities to improve my skills and collaborate on interesting projects.</h3>
 
 - 🔭 I’m currently working on [Almaty Data Lake](https://adl.digital-almaty.kz/en/)
 
